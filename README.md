@@ -22,13 +22,10 @@
 
 ### 🧰 Tech I Work With
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/BadgerDB-FFCA28?style=for-the-badge&logo=database&logoColor=black" />
-</p>
+<!--START_LANGUAGES_SECTION-->
+
+<p>![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white) ![Go](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-informational?style=flat&logo=css&logoColor=white) ![Elm](https://img.shields.io/badge/Elm-informational?style=flat&logo=elm&logoColor=white) ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-informational?style=flat&logo=haskell&logoColor=white) ![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-informational?style=flat&logo=cmake&logoColor=white) ![Makefile](https://img.shields.io/badge/Makefile-informational?style=flat&logo=makefile&logoColor=white)</p>
+<!--END_LANGUAGES_SECTION-->
 
 ---
 
@@ -37,14 +34,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamBharatManral&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamBharatManral&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🔥 Streaks
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamBharatManral&theme=radical&fire=DD2727&ring=7CFC00&currStreakLabel=FAD000" />
 </p>
 
 ---
