@@ -1,5 +1,6 @@
 import requests
 import os
+import hashlib
 from collections import defaultdict
 
 GITHUB_USERNAME = "iamBharatManral"
@@ -7,6 +8,13 @@ README_FILE = "README.md"
 START_TAG = "<!--START_LANGUAGES_SECTION-->"
 END_TAG = "<!--END_LANGUAGES_SECTION-->"
 GITHUB_API = f"https://api.github.com/users/{GITHUB_USERNAME}/repos"
+
+def get_color_for_language(lang):
+    # Generate a consistent color hex from the hash of the language name
+    hash_object = hashlib.md5(lang.encode())
+    hex_digest = hash_object.hexdigest()
+    # Use the first 6 characters of the hash as the hex color
+    return hex_digest[:6].upper()
 
 def fetch_languages():
     repos = requests.get(GITHUB_API).json()
@@ -25,32 +33,12 @@ def fetch_languages():
 
 
 def format_languages(langs):
-    language_colors = {
-        "Go": "00ADD8",
-        "Rust": "000000",
-        "JavaScript": "F7DF1E",
-        "Python": "306998",
-        "Java": "007396",
-        "TypeScript": "3178C6",
-        "C": "A8B9CC",
-        "C++": "00599C",
-        "HTML": "E34F26",
-        "CSS": "1572B6",
-        "Ruby": "D9136A",
-        "Haskell": "5e4b8b",
-        "PHP": "8993be",
-        "Swift": "F05138",
-        "Kotlin": "7F52FF",
-        "GoCache": "00ADD8",
-        "Vim": "019733",
-        "Linux": "FCC624"
-    }
-
     badges = []
     for lang, _ in langs:
-        color = language_colors.get(lang, "informational")  # Default color
-        badges.append(f"![{lang}](https://img.shields.io/badge/{lang.replace(' ', '%20')}-{color}?style=flat&logo={lang.lower()}&logoColor=white)")
-
+        color = get_color_for_language(lang)
+        badges.append(
+            f"![{lang}](https://img.shields.io/badge/{lang.replace(' ', '%20')}-{color}?style=flat&logo={lang.lower()}&logoColor=white)"
+        )
     return "\n" + " ".join(badges) + "\n"
 
 def update_readme(new_section):
