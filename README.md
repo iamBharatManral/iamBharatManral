@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=iamBharatManral&label=Profile%20views&color=0e75b6&style=flat" alt="iamBharatManral" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/twitter/follow/yourhandle?logo=twitter&style=for-the-badge" /></a>
-  <a href="https://github.com/iamBharatManral?tab=followers"><img src="https://img.shields.io/github/followers/iamBharatManral?label=Follow&style=for-the-badge" /></a>
-</p>
-
 ---
 
 ### 🧠 About Me
