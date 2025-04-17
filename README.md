@@ -23,8 +23,7 @@
 ### 🧰 Tech I Work With
 
 <!--START_LANGUAGES_SECTION-->
-
-<p>![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white) ![Go](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-informational?style=flat&logo=css&logoColor=white) ![Elm](https://img.shields.io/badge/Elm-informational?style=flat&logo=elm&logoColor=white) ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-informational?style=flat&logo=haskell&logoColor=white) ![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-informational?style=flat&logo=cmake&logoColor=white) ![Makefile](https://img.shields.io/badge/Makefile-informational?style=flat&logo=makefile&logoColor=white)</p>
+<!-- Will be automatically updated by GitHub Action -->
 <!--END_LANGUAGES_SECTION-->
 
 ---
