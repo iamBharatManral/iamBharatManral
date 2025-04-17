@@ -18,7 +18,9 @@
 ### 🧰 Tech I Work With
 
 <!--START_LANGUAGES_SECTION-->
-<!-- Will be automatically updated by GitHub Action -->
+
+![JavaScript](https://img.shields.io/badge/JavaScript-686155?style=flat&logo=javascript&logoColor=white) ![Go](https://img.shields.io/badge/Go-5F075A?style=flat&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-558B54?style=flat&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-4C4AD5?style=flat&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-2C56C3?style=flat&logo=css&logoColor=white) ![Elm](https://img.shields.io/badge/Elm-3EA724?style=flat&logo=elm&logoColor=white) ![Python](https://img.shields.io/badge/Python-A7F5F3?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-D52387?style=flat&logo=java&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-A59B78?style=flat&logo=haskell&logoColor=white) ![C](https://img.shields.io/badge/C-0D61F8?style=flat&logo=c&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-DF49AD?style=flat&logo=cmake&logoColor=white) ![Makefile](https://img.shields.io/badge/Makefile-B67911?style=flat&logo=makefile&logoColor=white)
+
 <!--END_LANGUAGES_SECTION-->
 
 ---
