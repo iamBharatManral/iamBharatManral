@@ -26,9 +26,6 @@ jobs:
       - name: Run update_languages.py
         run: python update_languages.py
 
-      - name: Debug token usage
-        run: echo "Pushing to: https://x-access-token:${{ secrets.UPDATE_README }}@github.com/${{ github.repository }}.git"
-
       - name: Push changes
         run: |
           git config --local user.name "github-actions[bot]"
