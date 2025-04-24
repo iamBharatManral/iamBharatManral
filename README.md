@@ -37,6 +37,7 @@
 ### 🚀 Projects
 
 - 🧩 [Atom](https://github.com/iamBharatManral/atom) – dynamic, strongly typed interpreted language
+- 🧩 [MonkeyScript](https://github.com/iamBharatManral/monkeyscript) – Typescript edition of [monkey](https://monkeylang.org/) language
 - 🧩 [GoParse](https://github.com/iamBharatManral/GoParse) – Idiomatic parser combinator library
 - 🧩 [ByteME](https://github.com/iamBharatManral/ByteMe) – Stack based bytecode interpreter
 - 🧩 [GoChain](https://github.com/iamBharatManral/GoChain) – Blockchain in Go
