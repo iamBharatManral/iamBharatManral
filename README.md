@@ -36,7 +36,10 @@
 
 ### 🚀 Projects
 
-- 🧩 [GoParse](https://github.com/iamBharatManral/GoParse) – Idiomatic parser combinator library.
+- 🧩 [Atom](https://github.com/iamBharatManral/atom) – dynamic, strongly typed interpreted language
+- 🧩 [GoParse](https://github.com/iamBharatManral/GoParse) – Idiomatic parser combinator library
+- 🧩 [ByteME](https://github.com/iamBharatManral/ByteMe) – Stack based bytecode interpreter
+- 🧩 [GoChain](https://github.com/iamBharatManral/GoChain) – Blockchain in Go
 
 ---
 
